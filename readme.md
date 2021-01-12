@@ -6,7 +6,9 @@ The point of this is to have a complete setup of phpunit.xml configuration file 
 
 ## To play
 
-> git clone <this-repo>
-> cd  composer-phpunit
-> php composer.phar install
-> ./vendor/bin/phpunit --configuration tests/phpunit.xml
+```
+git clone <this-repo>
+cd  composer-phpunit
+php composer.phar install
+./vendor/bin/phpunit --configuration tests/phpunit.xml
+```
